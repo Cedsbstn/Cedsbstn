@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h4 align="center">Hi 👋! My name is Ced and I'm a Professional Cyber Security & Full Stack Developer, from Indonesia</h4>
 
 ###
@@ -159,3 +160,21 @@
 </picture>
 
 ###
+=======
+## Hi there 👋
+
+<!--
+**Cedsbstn/Cedsbstn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> a7d3de364d02897cf316d36eef4b90df5f53460f
