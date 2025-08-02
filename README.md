@@ -1,4 +1,4 @@
-<h4 align="center">Hi 👋! My name is Ced and I'm a Professional Cyber Security & Full Stack Developer, from Indonesia</h4>
+<h4 align="center">Hi 👋! My name is Ced and I'm a Professional Cyber Security & Full Stack Developer from Indonesia</h4>
 
 ###
 
