@@ -88,15 +88,15 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" height="46" alt="googlecloud logo"  />
-  <img width="12" />
+  <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="46" alt="amazonwebservices logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height="46" alt="azure logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="46" alt="oracle logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original-wordmark.svg" height="46" alt="digitalocean logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="46" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="46" alt="windows8 logo"  />
