@@ -1,4 +1,4 @@
-<h4 align="center">Hi 👋! My name is Cedric Sebastian, a Student of AI Engineering and a Professional Cyber Security from Indonesia</h4>
+<h4 align="center">Hi 👋! My name is Cedric Sebastian, a Student of AI Engineering and a Professional Cloud Security from Indonesia</h4>
 
 ###
 
