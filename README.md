@@ -24,7 +24,7 @@
           <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=AI+Engineer;Interest+in+AI+Research;Machine+Learning+Professional;Computer+Science+Student+@Binus+University;4x+Alibaba+Cloud+Certified;Always+learning+new+things">
         </a>
         <br />
-        <img src="tenor.gif" width="100%" alt="Red Squadron Standing By">
+        <img src="tenor.gif" width="80%" alt="Red Squadron Standing By">
       </td>
       <!-- Right Column: Coding Mascot -->
       <td width="20%" align="center" valign="middle" style="border: none;">
