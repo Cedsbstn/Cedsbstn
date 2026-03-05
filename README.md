@@ -1,12 +1,44 @@
-<h4 align="center">Hi 👋! My name is Cedric Sebastian, a Student of AI Engineering and a Professional Cloud Security from Indonesia</h4>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi , I am <a href="https://cedlm.com"> <b>Cedric Sebastian</b></a> 
+      <img src="https://cdn.discordapp.com/emojis/916286926091325480.webp?size=48&animated=true&name=grun&lossless=true"></h1></summary>
+  </ul>
+</div>
 
-###
+<div align="center">
+  
+  <!-- Top Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"  />
+  <!-- Main Layout Table -->
+  <table width="100%" style="border: none; border-collapse: collapse;">
+    <tr>
+      <!-- Left Column: Octocat -->
+      <td width="20%" align="center" valign="middle" style="border: none;">
+        <img src="https://github.com/images/mona-whisper.gif" width="100" alt="Mona Whisper">
+      </td>
+      <!-- Center Column: Text & X-Wing -->
+      <td width="60%" align="center" valign="middle" style="border: none;">
+        <!-- Typing SVG -->
+        <a href="https://github.com/DenverCoder1/readme-typing-svg">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=AI+Engineer;Interest+in+AI+Research;Machine+Learning+Professional;Computer+Science+Student+@Binus+University;4x+Alibaba+Cloud+Certified;Always+learning+new+things">
+        </a>
+        <br />
+        <img src="https://cedlm.com/_next/image?url=/images/speaking/xwing-redsquadron.gif&w=640&q=75" width="100%" alt="Red Squadron Standing By">
+      </td>
+      <!-- Right Column: Coding Mascot -->
+      <td width="20%" align="center" valign="middle" style="border: none;">
+        <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="100" alt="Coding Bot">
+      </td>
+    </tr>
+  </table>
 
-###
+  <!-- Bottom Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img align="left" height="150" src="https://github.com/images/mona-whisper.gif"  />
+</div>
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 ###
 
