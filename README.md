@@ -7,34 +7,27 @@
 
 <div align="center">
   
-  <!-- Top Divider -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Top Divider">
 
-  <!-- Main Layout Table -->
   <table width="100%" style="border: none; border-collapse: collapse;">
     <tr>
-      <!-- Left Column: Octocat -->
       <td width="20%" align="center" valign="middle" style="border: none;">
         <img src="https://github.com/images/mona-whisper.gif" width="100" alt="Mona Whisper">
       </td>
-      <!-- Center Column: Text & X-Wing -->
       <td width="60%" align="center" valign="middle" style="border: none;">
-        <!-- Typing SVG -->
         <a href="https://github.com/DenverCoder1/readme-typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=AI+Engineer;Interest+in+AI+Research;Machine+Learning+Professional;Computer+Science+Student+@Binus+University;4x+Alibaba+Cloud+Certified;Always+learning+new+things">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=AI+Engineer;Interest+in+AI+Research;Machine+Learning+Professional;Computer+Science+Student+@Binus+University;4x+Alibaba+Cloud+Certified;Always+Learning+New+Things+About+AI" alt="Typing SVG">
         </a>
         <br />
-        <img src="tenor.gif" width="80%" alt="Red Squadron Standing By">
+        <img src="tenor.gif" width="100%" alt="Red Squadron Standing By">
       </td>
-      <!-- Right Column: Coding Mascot -->
       <td width="20%" align="center" valign="middle" style="border: none;">
         <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="100" alt="Coding Bot">
       </td>
     </tr>
   </table>
 
-  <!-- Bottom Divider -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Bottom Divider">
 
 </div>
 
@@ -43,7 +36,7 @@
 ###
 
 👽 &nbsp;I like to explore, learn and research AI and develop AI Agent or Software solutions.\
-📔 &nbsp;I'm currently studying Computer Science at the BINUS University.\
+📔 &nbsp;I'm currently studying Artificial Intelligence and Computer Science @BINUS University.\
 🦖 &nbsp;I'm on track for exploring, learning, and even research more about Artificial Intelligence, Deep Learning, and Reasoning Model.\
 ✍️ &nbsp;In my free time, I pursue Blog Writing on medium as side hustles.\
 ✉️ &nbsp;Feel free to reach out to me for some interesting discussion. I'll try to respond as soon as I'm able.\
