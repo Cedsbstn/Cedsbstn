@@ -16,7 +16,7 @@
       </td>
       <td width="60%" align="center" valign="middle" style="border: none;">
         <a href="https://github.com/DenverCoder1/readme-typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=AI+Engineer;Interest+in+AI+Research;Machine+Learning+Professional;Computer+Science+Student+@Binus+University;4x+Alibaba+Cloud+Certified;Always+Learning+New+Things+About+AI" alt="Typing SVG">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=AI+Engineer;Interest+in+AI+Research;Machine+Learning+Professional;Computer+Science+Student+@BINUS+University;4x+Alibaba+Cloud+Certified;Always+Learning+New+Things+About+AI" alt="Typing SVG">
         </a>
         <br />
         <img src="tenor.gif" width="100%" alt="Red Squadron Standing By">
