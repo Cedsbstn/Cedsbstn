@@ -31,16 +31,18 @@
 
 </div>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <a href="https://cedlm.com"> About me </a>
+<div id="user-content-toc">
+<ul align="left">
+<summary> <h2 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <a href="https://cedlm.com"> About me </a></h2></summary>
+</ul>
+</div>
 
-###
-
-👽 &nbsp;I like to explore, learn and research AI and develop AI Agent or Software solutions.\
-📔 &nbsp;I'm currently studying Artificial Intelligence and Computer Science @BINUS University.\
-🦖 &nbsp;I'm on track for exploring, learning, and even research more about Artificial Intelligence, Deep Learning, and Reasoning Model.\
-✍️ &nbsp;In my free time, I pursue Blog Writing on medium as side hustles.\
-✉️ &nbsp;Feel free to reach out to me for some interesting discussion. I'll try to respond as soon as I'm able.\
-✨ &nbsp;Please have a look at my [Wébsité](https://cedlm.com) for more details about me. I'm open to feedback and suggestions!
+- <strong>👽 I like to explore, learn, and research AI</strong> and develop AI Agents & Software solutions.
+- 📔 I'm currently studying **Artificial Intelligence and Computer Science** @BINUS University.
+- 🦖 I'm on track for exploring, learning, and researching **Deep Learning** and **Reasoning Models**.
+- ✍️ In my free time, I pursue **Blog Writing** on Medium as a side hustle.
+- ✉️ Feel free to **reach out to me** for some interesting discussion. I'll respond as soon as I'm able.
+- ✨ Please have a look at my [Wébsité](https://cedlm.com) for more details about me. I'm open to feedback!
 
 ### 🛠 &nbsp;Tech Stack
 
