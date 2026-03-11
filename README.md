@@ -46,8 +46,18 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-###
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" height="125" align="middle" alt="googlecloud logo"  />
+  <img width="15" height="1" />
+  <img src="https://flax.readthedocs.io/en/stable/_static/flax.png" height="38" align="middle" alt="flax logo" />
+  <img width="15" height="1" />
+  <img src="https://docs.jax.dev/en/latest/_static/jax_logo_250px.png" height="38" align="middle" alt="Jax Logo" />
+  <img width="15" height="1" />
+  <img src="https://tunix.readthedocs.io/en/latest/_static/tunix.png" height="38" align="middle" alt="google Tunix logo"  />
+</div>
 
+<table align="center">
+<td>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="38" alt="c logo"  />
   <img width="8" />
@@ -92,13 +102,8 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" height="38" alt="terraform logo"  />
 </div>
-
-###
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" height="100" alt="googlecloud logo"  />
-  <img width="18" />
-</div>
-
+</td>
+<td>
 <div align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="46" alt="amazonwebservices logo"  />
   <img width="8" />
@@ -136,8 +141,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" height="46" alt="visualstudio logo"  />
 </div>
-
-###
+</td>
+</table>
 
 <br clear="both">
 
@@ -161,12 +166,8 @@
 
 ###
 
-<br clear="both">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cedsbstn/Cedsbstn/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cedsbstn/Cedsbstn/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Cedsbstn/Cedsbstn/output/pacman-contribution-graph.svg">
 </picture>
-
-###
