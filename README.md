@@ -51,6 +51,8 @@
   <img width="15" height="1" />
   <img src="https://flax.readthedocs.io/en/stable/_static/flax.png" height="38" align="middle" alt="flax logo" />
   <img width="15" height="1" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" height="125" align="middle" alt="tensorflow logo"  />
+  <img width="15" height="1"/>
   <img src="https://docs.jax.dev/en/latest/_static/jax_logo_250px.png" height="38" align="middle" alt="Jax Logo" />
   <img width="15" height="1" />
   <img src="https://tunix.readthedocs.io/en/latest/_static/tunix.png" height="38" align="middle" alt="google Tunix logo"  />
@@ -81,8 +83,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="38" alt="nextjs logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="38" alt="jupyter logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" height="38" alt="tensorflow logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" height="38" alt="opencv logo"  />
   <img width="8" />
