@@ -144,25 +144,35 @@
 </td>
 </table>
 
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.instagram.com/cedsbstn" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discordapp.com/users/966623512099979275" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/cedsbstn/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://cedsbstn.medium.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="47" height="35" alt="medium logo"  />
-  </a>
-  <a href="https://x.com/cedsbstn" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://www.instagram.com/cedsbstn" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="35" alt="instagram logo" />
+      </a>
+    </td>
+    <td>
+      <a href="https://discordapp.com/users/966623512099979275" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="35" alt="discord logo" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/cedsbstn/" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="35" alt="linkedin logo" />
+      </a>
+    </td>
+    <td>
+      <a href="https://cedsbstn.medium.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="35" height="35" alt="medium logo" />
+      </a>
+    </td>
+    <td>
+      <a href="https://x.com/cedsbstn" target="_blank">
+        <img src="https://about.x.com/content/dam/about-twitter/x/large-x-logo.png.twimg.1920.png" width="35" height="35" alt="twitter logo" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ###
 
