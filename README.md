@@ -49,6 +49,10 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" height="125" align="middle" alt="googlecloud logo"  />
   <img width="15" height="1" />
+  <img src="https://user-uploads.lmstudio.ai/umbrella-editor-assets/2026/04/02/9zxe0th6-image.png" height="38" align="middle" alt="flax logo" />
+  <img width="15" height="1" />
+  <img src="https://keras.io/img/logo.png" height="38" align="middle" alt="flax logo" />
+  <img width="15" height="1" />
   <img src="https://flax.readthedocs.io/en/stable/_static/flax.png" height="38" align="middle" alt="flax logo" />
   <img width="15" height="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" height="125" align="middle" alt="tensorflow logo"  />
