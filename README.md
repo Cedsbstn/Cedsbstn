@@ -55,11 +55,11 @@
   <img width="15" height="1" />
   <img src="https://flax.readthedocs.io/en/stable/_static/flax.png" height="38" align="middle" alt="flax logo" />
   <img width="15" height="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" height="125" align="middle" alt="tensorflow logo"  />
+  <img src="https://tunix.readthedocs.io/en/latest/_static/tunix.png" height="38" align="middle" alt="google Tunix logo"  />
   <img width="15" height="1"/>
   <img src="https://docs.jax.dev/en/latest/_static/jax_logo_250px.png" height="38" align="middle" alt="Jax Logo" />
   <img width="15" height="1" />
-  <img src="https://tunix.readthedocs.io/en/latest/_static/tunix.png" height="38" align="middle" alt="google Tunix logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" height="125" align="middle" alt="tensorflow logo"  />
 </div>
 
 <table align="center">
