@@ -42,7 +42,7 @@
 - 🦖 I'm on track for exploring, learning, and researching **Deep Learning** and **Reasoning Models**.
 - ✍️ In my free time, I pursue **Blog Writing** on Medium as a side hustle.
 - ✉️ Feel free to **reach out to me** for some interesting discussion. I'll respond as soon as I'm able.
-- ✨ Please have a look at my [Wébsité](https://cedlm.com) for more details about me. I'm open to feedback!
+- ✨ Please have a look at my [Wébsité](https://cedxar.me) for more details about me. I'm open to feedback!
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -109,8 +109,6 @@
 </td>
 <td>
 <div align="center">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="46" alt="amazonwebservices logo"  />
-  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height="46" alt="azure logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="46" alt="oracle logo"  />
